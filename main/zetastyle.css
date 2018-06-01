@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Sansita');
+
+
+#zeta_img1{
+      margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+
+body {
+  font-family: 'Sansita', sans-serif;
+
+
+}
+
+/*
+
+.alert-box{
+  border:3px solid black;
+  background: #722f37;
+
+  position: fixed;
+  width:333px;
+  height: 480px;
+  left: 150px;
+  right: 150px;
+  top : 350px;
+  z-index: 5;
+  color: #1e90ff;
+}
+
+#e_zaku{
+  width: 281px;
+  height: 395px;
+  display: block;
+  margin: auto;
+}
+
+#hml{
+  width: 350px;
+  height: 275px;
+}
+
+
+#bs{
+  width: 350px;
+  height: 250px;
+}
+
+*/
